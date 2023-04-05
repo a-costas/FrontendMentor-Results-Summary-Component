@@ -1,3 +1,8 @@
+@font-face {
+  font-family: HankenGrotesk;
+  src: url(assets/fonts/HankenGrotesk-VariableFont_wght.ttf);
+}
+
 :root {
   --Primary-gradient: linear-gradient(
     to bottom,
@@ -22,7 +27,7 @@
   --Light-Font: hsla(241, 100%, 89%, 1);
   --Font-Dark-Navy: hsl(224, 30%, 27%);
   --Button-background: hsl(224, 30%, 27%);
-  --Font-primary: "Hanken Grotesk";
+  --Font-primary: HankenGrotesk;
 }
 
 main {
