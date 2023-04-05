@@ -26,7 +26,7 @@
 }
 
 main {
-  font-family: var(--Font-primary), serif;
+  font-family: var(--Font-primary), sans-serif;
 }
 
 .heading {
